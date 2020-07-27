@@ -1,0 +1,21 @@
+{
+  "name": "my-cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d my-cv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickbazie/cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://nickbazie.github.io/my-cv",
+  "bugs": {
+    "url": "https://github.com/nickbazie/cv/issues"
+  },
+  "homepage": "https://github.com/nickbazie/cv#readme"
+}
